@@ -2,7 +2,7 @@
 
 > A fast, async Python vulnerability scanner with a rich terminal UI and HTML/JSON reporting.
 
-![Python](https://img.shields.io/badge/python-3.9+-blue?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.1+-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Async](https://img.shields.io/badge/async-asyncio-purple?style=flat-square)
 
